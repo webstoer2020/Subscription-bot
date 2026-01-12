@@ -1,0 +1,35 @@
+# بيانات حساسة
+.env
+*.env
+.env.local
+
+# قاعدة بيانات محلية
+*.db
+*.sqlite
+*.sqlite3
+
+# بيئات بايثون
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+
+# ملفات نظام
+.DS_Store
+Thumbs.db
+
+# إعدادات IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ملفات Logs
+*.log
+logs/
+
+# ملفات تثبيت بايثون
+dist/
+build/
+*.egg-info/
