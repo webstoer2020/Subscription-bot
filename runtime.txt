@@ -1,2 +1,2 @@
 # في مجلد مشروعك
-echo "python-3.12.10" > runtime.txt
+echo "python-3.12.4" > runtime.txt
